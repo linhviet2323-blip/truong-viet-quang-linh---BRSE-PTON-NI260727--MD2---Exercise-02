@@ -1,4 +1,4 @@
-SHOW DATABASES;
+
 USE ddl_sql;
 SHOW TABLES;
 CREATE TABLE students(
