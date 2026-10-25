@@ -1,4 +1,3 @@
-SHOW DATABASES;
 USE ddl_sql;
 CREATE TABLE products(
 Ma_san_pham INT PRIMARY KEY,
